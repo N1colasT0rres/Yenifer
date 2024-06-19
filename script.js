@@ -398,7 +398,7 @@ function function_fade_in(opacity_value) {
 
 //keep code handy for when we want to insert the new message --
 function newMessage(){
-myElement.innerHTML = '<h2>Te deseo un maravilloso dia <br> lleno de muchas alegrias, exitos y momentos<br> inolvidables.<br><br> Que cada paso que de la lleve más<br>cerca de sus sueños.<br>Feliz cumpleaños y que Dios te<br>bendiga.<br><br>Un abrazo, tu compañera Claudia Molina.❤️</h2>';	
+myElement.innerHTML = '<h2>Te deseo un maravilloso dia <br> lleno de muchas alegrias, exitos y momentos<br> inolvidables.<br><br> Que cada paso que des, te lleve cada dia más<br>cerca de tus sueños.<br>Feliz cumpleaños y que Dios te<br>bendiga.<br><br>Un abrazo, tu compañera Claudia Molina.❤️</h2>';	
 fade_in_button();
 }
 
